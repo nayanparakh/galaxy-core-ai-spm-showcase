@@ -140,4 +140,4 @@ The dark-mode console adapts down to 375px screens, and the graph reflows into a
 
 ---
 
-<sub>Architecture inspired by [dshapi/AI-SPM](https://github.com/dshapi/AI-SPM) (Apache-2.0) and independently implemented. MITRE ATLAS™ is a trademark of The MITRE Corporation.</sub>
+<sub>Architecture inspired by [dshapi/AI (Apache-2.0) and independently implemented. MITRE ATLAS™ is a trademark of The MITRE Corporation.</sub>
